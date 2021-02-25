@@ -27,7 +27,7 @@
 ```
 
 - Comments start with `<!--` and end with `-->` (can be multyline)
-- Headers have the tag `<hN></hN>`, where N is between 1 and 6 (with 1 being the strongest/bigger)
+- Headers have the tag `<hN></hN>`, where N is between $1$ and $6$ (with $1$ being the strongest/bigger)
 - Brake line tag is `<br>` (self closing tag)
 - Paragraph tag is `<p></p>`
 - Horizontal rule tag is `<hr>` (self closing tag)
